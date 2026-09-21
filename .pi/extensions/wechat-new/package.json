@@ -1,0 +1,10 @@
+{
+  "name": "wechat-new-session",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.ts",
+  "description": "独立插件：微信 /new 新建会话（update 安全）",
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
