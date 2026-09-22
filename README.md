@@ -93,7 +93,7 @@ Alice-Agent/
 ### 安装(for pi)
 
 ```bash
-git clone https://github.com/yourname/alice-agent.git
+git clone https://github.com/yourname/Alice-Agent.git
 cd Alice-Agent
 pi
 ```
